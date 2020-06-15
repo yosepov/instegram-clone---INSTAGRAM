@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395752769390",
+    "firebase_url": "https://flutter-instegram.firebaseio.com",
+    "project_id": "flutter-instegram",
+    "storage_bucket": "flutter-instegram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395752769390:android:efd58ca1d430fa3580e37f",
+        "android_client_info": {
+          "package_name": "com.yosepov.instegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395752769390-iikrov4dhj06i4a0m1qoa5ujfbb43nk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yosepov.instegram",
+            "certificate_hash": "53541421c58258750d4bb70ec40bdc2ae4010014"
+          }
+        },
+        {
+          "client_id": "395752769390-7nh1h4uvlp593fgc2f92ip8n1stgkelg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5jQLeOabVzK0asDJbRrNpomw1H6H56bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395752769390-7nh1h4uvlp593fgc2f92ip8n1stgkelg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
